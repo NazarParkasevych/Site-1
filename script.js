@@ -4641,64 +4641,64 @@ function showMFL1Teams() {
 }
 const teamdata_31 = {
     'besa 1976':{
-        players:'Goalkeepers: ; Defenders: ; Midfielders: ; Forwards: ; Coach: ',
-        description:'',
-        trophies:''
+        players:'Goalkeepers: #? Aleksandar Angelovski, #1 Dejan Siljanovski, #35 Kostadin Zahov; Defenders: #24 Adem Draganovic, #15 Imran Fetai, #90 Nikola Gavric, #4 Arsim Ljamalari, #34 Ersan Mustafa, #21 Medzit Neziri, #3 Almir Rexhepi, #23 Bashkim Velija; Midfielders: #5 Armend Alimi, #3 Selmani Fatlum, #44 Yumemi Kanda, #77 Jasin Nuredini, #22 Oktaj Rakipi, #14 Adama Samake, #88 Ersin Shabani, #29 Goran Siljanovski, #12 Egzon Tairi; Forwards: #88 Hisar Ali, #10 Dzemail Esati, #11 Admir Ljatifi, #8 Remzifaik Selmani, #7 Shefit Shefiti, #9 Vlatko Stojanovski; Coach: Gorazd Mihailov',
+        description:'Професійний північно-македонський футбольний клуб з села Добри Дол общини Гостивар. Команда з 2024 року грає в Македонській футбольній Першій лізі, найвищій футбольній лізі країни, після перемоги в Македонській футбольній Другій лізі. «Беса» заснована в 1976 році, та більшу частину своєї історії грала в нижчих лігах Югославії та Північної Македонії. Клуб грає домашні матчі на міському стадіоні в Гостиварі місткістю в 1 тисячу глядачів.',
+        trophies:'Клуб не вигравав трофеї'
     },
     'brera strumica':{
-        players:'Goalkeepers: ; Defenders: ; Midfielders: ; Forwards: ; Coach: ',
-        description:'',
-        trophies:''
+        players:'Goalkeepers: #90 Daniel Dikovski, #82 David Iloski, #1 Slave Vrgov; Defenders: #32 Filip Antovski, #33 Andrej Arizankoski, #8 Clinton Bangura, #20 Zoran Ivanovski, #5 Hristijan Jankuloski, #4 Mihail Milevski, #6 Stefan Naumcheski, #11 Igor Ristov, #26 Florian Rochi, #23 Abdul Rwatubyaye, #3 Andrej Velkov; Midfielders: #17 Zoran Andonov, #16 Kamencho Andonovski, #37 Dragan Bilbija, #28 Jovan Drvosanov, #10 Martin Gjorgievski, #8 Shafiq Kagimu, #22 Filip Mihailov, #99 Samuel Nakov Fuentes, #29 Ibrahim Olaosebikan, #28 Zdravko Pereski, #15 David Ristovski, #91 Martin Sharenkovski, #24 Marko Stojilevski, #23 Foday Trawally; Forwards: #77 Hadji Drame, #7 Revaldo Mitchell, #2 Filip Mitev, #9 Fahd Ndzengue, #18 Matej Sejmenov, #19 Nikola Taleski; Coach: Pance Stojanov',
+        description:'Македонський футбольний клуб із міста Струміца , який виступає в Першій лізі Македонії . Клуб був заснований у 2010 році як FK Akademija Pandev македонським футболістом Гораном Пандевом , на честь якого була названа академія. Станом на 2014 рік AP Brera має старшу команду, яка змагається у вищих лігах Македонії, а в 2017 році старша команда вперше у своїй історії піднялася до Першої ліги Македонії. У лютому 2018 року команда переїхала грати свої домашні ігри на стадіон Кукуш через розбіжності щодо оренди з ФК «Беласіка». У сезоні 2018–2019 років вони виграли Кубок Македонії з футболу, обігравши Македонію GP по пенальті після нічиєї 2–2. Академія перемогла з рахунком 4–2 за сумою пенальті 6–4. У серпні 2022 року Горан Пандев та італійська команда Brera Calcio уклали спонсорську угоду, за якою обидві сторони встановили б тісніші стосунки. 31 травня 2023 року Академія Пандев була успішно придбана Brera Holdings PLC, холдинговою компанією Brera Calcio, при цьому компанія отримала 90% акцій клубу. 26 червня 2023 року клуб був офіційно перейменований на FC Akademija Pandev Brera Strumica. AP Brera проводить свої домашні ігри у власному спортивному центрі «Пандев». Відкритий у 2020 році, він має єдине поле з однією трибуною місткістю 1500 місць, а також обладнаний готелем та адміністративними приміщеннями клубу. Тут також грають і тренуються молодіжні категорії. Стадіон «Младост» — багатоцільовий стадіон у Струміці, Республіка Північна Македонія. Зараз він використовується в основному для футбольних матчів, а місткість стадіону становить 6500 глядачів. Після останньої реконструкції у 2017 році стадіон розрахований на 9200 місць і є полем третього класу за стандартами УЄФА. Він відповідає умовам змагань високого рангу і є другим подібним стадіоном в країні.',
+        trophies:'Кубок Македонії: 18/19'
     },
     'gostivar':{
-        players:'Goalkeepers: ; Defenders: ; Midfielders: ; Forwards: ; Coach: ',
-        description:'',
-        trophies:''
+        players:'Goalkeepers: #91 Bujar Abazi, #13 Baki Aliu, #1 Vasko Vasilev; Defenders: #77 Enis Dervishi, #33 Darko Glisic, #15 Malik Hamzikj, #5 Andrej Kirovski, #21 Emmanuel Mbende, #16 Mevlan Murati, #4 Fisnik Zuka; Midfielders: #6 Rinor Ajdini, #23 Aias Aosman, #14 Nabil Dirar, #11 Muhamed Elmas, #30 Kristijan Gjorgjievski, #90 Zeni Husmani, #7 Nijaz Jusufi, #26 Alper Potuk, #27 Asan Rifadov, #24 Dusko Trajcevski; Forwards: #8 Oguzhan Aydogan, #22 Assane Diatta, #9 Lee Erwin, #10 Ivan Ivanovski, #99 Antonio Kalanoski; Coach: Mert Nobre',
+        description:'Професіональний північно-македонський футбольний клуб з однойменного міста. Виступає в Другій лізі (група «Захід»). Заснований 1998 року албанською громадою Гостивару, початкова назва «Ринія» (Гостивар). До 2010 року виступав у регіональних футбольних змаганнях. У сезоні 2009/10 років посів 1-е місце в західній групі Третій лізі та вийшов до Другої ліги. У сезоні 2012/13 років посів друге місце в Другій лізі та вперше у власній історії виборов путівку до Першої ліги. Напередодні старту сезону 2013/14 років змінив назву на КФ «Гостивар». 18 серпня 2013 року з рахунком 2:0 обіграв «Работнічкі» (двома голами відзначився захисник Екрем Ходжич), ця перемога стала першою для «Гостивара» в еліті македнського футболу. Проте за підсумками сезону 2013/14 років команда вилетіла до Другої ліги, а по завершенні наступного сезону знову понизилася в класі.',
+        trophies:'Клуб не вигравав трофеї'
     },
     'pelister':{
-        players:'Goalkeepers: ; Defenders: ; Midfielders: ; Forwards: ; Coach: ',
-        description:'',
-        trophies:''
+        players:'Goalkeepers: #? Aleksandar Balev, #90 Nataniel Dimovski, #1 Andrej Jovcevski, #12 Ilche Petrovski; Defenders: #70 Filip Boskovski, #19 Dejan Djuric, #6 Hristijan Grozdanovski, #2 Stefan Ivanovski, #11 Daniel Karceski, #5 Stefan Kostov, #7 Blagoja Ljamcevski, #34 Filip Milenkovski, #24 Andrej Murgovski, #4 Aleksandar Ristevski, #18 Hristijan Stojanovski; Midfielders: #14 David Angelevski, #45 Erdzan Fejzulovski, #35 Fernandinho, #21 Gabriel Krstevski, #24 Jordanco Naumoski, #8 Viktor Serafimovski, #13 Andrej Siljanovski, #27 Filip Todoroski, #20 Jovanco Trajkoski; Forwards: #44 Mirko Ivanovski, #77 Vildan Kerim, #10 Bojan Spirkoski, #9 Masaaki Takahara; Coach: Srdjan Zaharievski',
+        description:'Македонський футбольний клуб з міста Бітола, заснований 1945 року. Виступає в Вищій лізі.',
+        trophies:'Кубок Македонії: 16/17, 00/01'
     },
     'rabotnicki':{
-        players:'Goalkeepers: ; Defenders: ; Midfielders: ; Forwards: ; Coach: ',
-        description:'',
-        trophies:''
+        players:'Goalkeepers: #1 Igor Aleksovski, #25 Filip Ilikj, #29 Antonij Trajkovski; Defenders: #3 Din Alomerovic, #44 Medin Bajrami, #2 Egzon Belica, #20 Besir Demiri, #26 Mihail Dimitrievski, #22 Stefan Lazarevikj, #6 Martin Miserdovski, #4 Sodiq Anthony Rasheed; Midfielders: #8 Ermedin Adem, #7 Valon Ahmedi, #5 Matej Angelov, #10 Cristojaye Daley, #23 Dimitar Danev, #15 Teodor Nikolovski, #24 Almir Podgragja, #17 Luka Robakidze, #32 Marko Stefanovski, #30 Mile Todorov; Forwards: #14 Jovan Boshnakov, #9 Ngu Enyang, #18 Aime Marcelin Gando Biala, #21 Nikola Manojlov, #11 Anes Rusevic; Coach: Goran Stanic',
+        description:'Македонський футбольний клуб зі Скоп`є, заснований 1937 року. Виступає у Першій лізі Македонії.',
+        trophies:'Кубок Македонії: 14/15, 13/14, 08/09, 07/08; Чемпіон Македонії: 13/14, 07/08, 05/06, 04/05'
     },
     'shkendija':{
-        players:'Goalkeepers: ; Defenders: ; Midfielders: ; Forwards: ; Coach: ',
-        description:'',
-        trophies:''
+        players:'Goalkeepers: #25 Astrit Amzai, #24 Risto Jankov, #30 Ferat Ramani; Defenders: #85 Mevlan Adili, #5 Klisman Cake, #3 Besjan Halimi, #18 Armir Isa, #20 Stefan Kocev, #26 Anes Meliqi, #22 Zija Merxhani, #3 Agrin Osmani, #15 Ibrahim Shabani, #2 Aleksander Trumci; Midfielders: #6 Adamu Alhassan, #15 Nazif Ceka, #? Luka Gavroski, #27 Lorik Kaba, #19 Vane Krstevski, #38 Amir Nuhija, #28 Kamer Qaka, #8 Florent Ramadani, #4 Reshat Ramadani, #17 Adenis Shala; Forwards: #9 Fiton Ademi, #7 Besart Ibraimi, #77 Liridon Latifi, #29 Fabrice Tamba, #11 Ronaldo Webster; Coach: Jeton Bekjiri',
+        description:'Північномакедонський футбольний клуб із Тетова, заснований 1979 року. Виступає у найвищому дивізіоні Македонії. Клуб заснували албанці Тетова з ідеєю, що всі албанці Югославії можуть об`єднатися навколо підтримки албанського клубу.',
+        trophies:'Кубок Македонії: 17/18, 15/16; Чемпіон Македонії: 20/21, 18/19, 17/18, 10/11'
     },
     'shkupi':{
-        players:'Goalkeepers: ; Defenders: ; Midfielders: ; Forwards: ; Coach: ',
-        description:'',
-        trophies:''
+        players:'Goalkeepers: #13 David Denkovski, #36 Amar Meljachi; Defenders: #3 Xhelil Asani, #2 Kristijan Blazevski, #21 Blendi Ganiu, #5 El Hadji Gueye, #32 Esmin Lichina, #17 Davor Serafimov, #4 Kristijan Tosevski, #? Emir Yazici; Midfielders: #28 Numan Ajetovikj, #6 Clement Ansah, #3 Xhezair Avduli, #37 Albert Diene, #30 Andi Ismaili, #19 Muadh Kurtish, #77 Andrej Lazarov, #21 Ariton Mehmed, #10 Hamza Ramani; Forwards: #70 Emmanuel Avornyo, #7 Besmir Daci, #9 Dzemal Ibishi, #31 Demir Imeri, #11 Florian Kadriu, #89 Erion Shuku, #90 Georg Stojanovski; Coach: Alparslan Erdem',
+        description:'Македонський професіональний футбольний клуб зі Скоп`є. Заснований 2012 року. Виступає в Першій лізі, найвищому дивізіоні країни. Домашні ігри проводить на стадіоні «Чаїр», який вміщує 6 000 глядачів.',
+        trophies:'Чемпіон Македонії: 21/22'
     },
     'sileks':{
-        players:'Goalkeepers: ; Defenders: ; Midfielders: ; Forwards: ; Coach: ',
-        description:'',
-        trophies:''
+        players:'Goalkeepers: #1 Daniel Bozinovski, #25 Ljupche Djekov, #12 Nikola Filevski; Defenders: #5 Gjorge Djekov, #23 Kristijan Eftimov, #26 Milos Nikolic, #3 Bojan Rajkov, #29 Ivan Subert, #7 Angelce Timovski; Midfielders: #6 Darko Angjeleski, #24 Nikola Braunovic, #16 Ilija Donov, #13 Gligorce Efremov, #22 Filip Gligorovski, #20 Tomce Grozdanovski, #14 Aldin Hrvanovic, #10 Leonid Ignatov, #17 Valentin Kocoski, #18 Darko Micevski, #21 Marko Nikolovski, #11 Marong Ousman; Forwards: #9 Adi Alic, #8 Darko Dodev, #19 Marko Gjorgjievski, #15 Alen Jasaroski; Coach: Aleksandar Vasoski',
+        description:'Північномакедонський футбольний клуб з міста Кратова. Домашні ігри клуб проводить на стадіоні «Сілекс».',
+        trophies:'Кубок Македонії: 20/21, 96/97, 93/94; Чемпіон Македонії: 97/98, 96/97, 95/96'
     },
     'struga':{
-        players:'Goalkeepers: ; Defenders: ; Midfielders: ; Forwards: ; Coach: ',
-        description:'',
-        trophies:''
+        players:'Goalkeepers: #95 Vedran Kjosevski, #12 Raif Mirseloski, #1 Hristijan Stevkovski; Defenders: #17 Fall Pape Yare, #5 Bojan Ilievski, #16 Besart Krivanjeva, #99 Maudo, #55 Sava Radic, #4 Kire Ristevski, #15 Ferat Sela, #3 Hadis Tairi, #2 Nikola Vlajkovic, #21 Erand Ziba; Midfielders: #10 Besmir Bojku, #77 Vebi Islami, #45 Stefan Jevtoski, #19 Ard Kasami, #31 Anes Maksutoski, #11 Bunjamin Shabani, #6 Stefan Spirovski, #8 Flamur Tairi, #28 Hogan Ukpa, #18 Shaban Zenku; Forwards: #33 Bassirou Compaore, #27 Memetriza Hamza, #9 Lanre Kehinde, #29 Hristijan Maleski, #14 Marjan Radeski; Coach: Ilco Gjorgjievski',
+        description:'Македонський футбольний клуб з однойменного міста, заснований у 2015 році. Домашні матчі приймає на стадіоні «Градска Плажа», місткістю 500 глядачів. Команда була заснована у 2015 році і була включена до четвертого дивізіону країни, який відразу виграла, підвищившись у класі. Там команда теж з першої спроби у сезоні 2016/17 зайняла перше місце та вийшла до другого дивізіону. У сезоні 2017/18 команда зайняла четверте місце, а вже з наступної спроби 2019 року виграла Другу лігу і вперше в історії вийшла до вищого дивізіону країни.',
+        trophies:'Чемпіон Македонії: 23/24, 22/23'
     },
     'tikves':{
-        players:'Goalkeepers: ; Defenders: ; Midfielders: ; Forwards: ; Coach: ',
-        description:'',
-        trophies:''
+        players:'Goalkeepers: #69 Ilija Apostolovski, #12 Stojan Dimovski, #1 Filip Kupanov; Defenders: #6 Almir Cubara, #14 Blaze Cvetkov, #3 Andrej Jakovljevic, #16 Aleksandar Kocev, #5 Daniel Mojsov, #20 Nikola Najdovski, #2 Kristijan Rizov, #4 Oliver Stoimenovski, #21 Aleksandar Varelovski; Midfielders: #14 Rustu Jonus, #55 Trajce Karpacev, #18 David Manasievski, #77 Pavel Mukaetov, #11 Milovan Petrovic, #88 Blagoja Spirkoski, #24 Kristijan Stojkoski, #23 Martin Todorov; Forwards: #33 Filip Mihaljevic, #77 Daniel Milovanovikj, #15 Aleksandar Mishov, #22 Rade Rajchinovski, #9 Berat Sadik, #7 Martin Stojanov, #8 Danail Tasev, #10 Arbi Vosha; Coach: Gjorgji Mojsov',
+        description:'Професіональний північна македонський футбольний клуб з міста Кавадарці, виступає у вищій лізі.',
+        trophies:'Кубок Македонії: 23/24'
     },
     'vardar':{
-        players:'Goalkeepers: ; Defenders: ; Midfielders: ; Forwards: ; Coach: ',
-        description:'',
-        trophies:''
+        players:'Goalkeepers: #87 Filip Gacevski, #1 Goce Jovcev, #95 Davor Taleski, #1 Metodija Velkovski; Defenders: #26 Mite Cikarski, #25 Aleksandar Gjurkovski, #21 Georgije Jankulov, #3 Mihail Manevski, #4 Mislav Matic, #90 Jasmin Mecinovic, #18 Nenad Mishkovski, #13 Andrej Murdjeski, #42 Michal Pinter, #75 Faustin Senghor; Midfielders: #88 Nemanja Bosancic, #? Manuel Cuestas, #14 Gorjan Cvetkov, #7 Danel Dongmo, #23 Filip Duranski, #? Ivo Markovski, #20 Kristijan Nikolovski, #15 Darko Sekovski, #22 Dimitar Todorovski; Forwards: #11 Djibril Dianessy, #47 Rogers Mato, #9 Azer Omeragikj, #30 Nikola Sharkoski, #17 Ediz Spahiu, #19 Mihail Talevski, #10 Goran Zakaric; Coach: Goce Sedloski',
+        description:'Північно-македонський футбольний клуб зі Скоп`є, заснований у 1947. У цей час виступає в Першій лізі Македонії. Один з провідних клубів Македонії. Основні кольори клубу червоно-чорні. Домашні матчі проводить на стадіоні Філіп ІІ Арена, який вміщує 25 000 глядацьких місць. Заснований 1947 року шляхом злиття команд скопійських «Победа» і «Македонія». Назву отримав від головної річки Македонії — Вардара. «Вардар» швидко став одним з найсильніших македонських клубів того періоду і 1961 року, виступаючи у другій югославській лізі, несподівано виграв кубок Югославії, обігравши у фіналі «Вартекс» (Вараждин), а також шість разів вигравав другу югославську лігу. Перемога в кубку дозволила «Вардару» стати першим македонським клубом, що взяв участь у єврокубках: скопійський клуб потрапив до Кубку кубків, де вже в першому раунді був розбитий шотландським «Данфермлін Атлетик» (0-5, 2-0). Після того «Вардар» ще тричі брав участь у Кубку Мітропи, найвищим досягненням у якому став півфінал турніру у 1968 році. Крім того, 1988 року «Вардар» скористався тим, що з низки команд чемпіонату було знято про 6 очок за договірні матчі і виграв чемпіонат Югославії, проте після завершення сезону після ряду судових позовів очки командам повернули і чемпіоном став «Партизан», а «Вардар» опустився аж на п`яте місце. Щоправда, перегляд результатів турніру відбувся запізно і «Вардар» встиг дебютувати в найпрестижнішому європейському клубному турнірі — Кубку європейських чемпіонів, де вже в першому раунді був розгромлений португальським «Порту» (0-3, 0-3). Інші македонські клуби в цей період не радували своїх вболівальників, граючи здебільшого в нижчих дивізіонах чемпіонату. Влітку 1992 року незалежна Македонія провела перший власний чемпіонат, перша ліга якого складалась з 18 команд, а чемпіоном прогнозовано став «Вардар» з відривом у 21 очко від другої команди «Сілекс», а найкращим бомбардиром став Саша Чирич, що забив аж 36 голів, які є рекордом до нашого часу. «Вардар» виграв і перший кубок країни, обігравши у фіналі «Пелістер». З середини 1990-х років «Вардар» втратив лідерство в Македонії і пішов у тінь до 2002 року. Потім здобув два поспіль титули на початку двотисячних, а у Лізі чемпіонів УЄФА 2003/04 клуб створив справжню сенсацію, вибивши з розіграшу в другому раунді російський ЦСКА із загальним рахунком 3:2 (гостьова перемога 2:1 і домашня нічия 1:1), а у протистоянні з празькою «Спартою» «Вардару» не вистачило лише одного голу, щоб вперше в історії пробитися в групову стадію. Проте, після цього в команді знову настала криза і у сезоні 2010/11 клуб навіть зайняв передостаннє місце в чемпіонаті і зберіг прописку лише через об`єднання з командою «Миравці», яка в тому сезоні здобула право виступати у Першій лізі. Таким чином «Вардар» залишився в еліті, а «Миравиці» продовжили виступи в Другій лізі. І вже в наступному сезоні 2011/12 врятований «Вардар» несподівано легко, з відривом у дев`ять очок, стає чемпіоном Македонії.',
+        trophies:'Кубок Югославії: 60/61; Кубок Македонії: 06/07, 98/99, 97/98, 94/95, 92/93; Чемпіон Македонії: 19/20, 16/17, 15/16, 14/15, 12/13, 11/12, 02/03, 01/02, 94/95, 93/94, 92/93'
     },
     'voska sport':{
-        players:'Goalkeepers: ; Defenders: ; Midfielders: ; Forwards: ; Coach: ',
-        description:'',
-        trophies:''
+        players:'Goalkeepers: #12 Baboucarr Gaye, #13 Kristijan Kitanovski; Defenders: #15 Hristijan Dragarski, #3 Agon Hani, #21 Ditmir Hoxha, #4 Ardit Iljazi, #18 Bilal Iseni, #23 Tome Kitanovski, #28 Andrej Richkov, #50 Marko Zulj; Midfielders: #6 Amos Dadet, #27 Fikri Dani, #77 Donart Ibraimi, #8 Djemilj Jahiji, #31 Milot Lena, #22 Gabriel Tenlep, #5 Lorent Zhaku; Forwards: #99 Ilirid Ademi, #16 Leo Andreski, #19 Darko Grozdanoski, #7 Abdulhadi Jahja, #9 Keith Larson, #11 David Mateski, #10 Clinton Osei, #9 Toni Vinogradac; Coach: Abri Klodian',
+        description:'Професіональний північно-македонський футбольний клуб з міста Охрид. З сезону 2023—2024 років клуб грає у Македонській футбольній Першій лізі, найвищій футбольній лізі країни. Домашні матчі клуб грає на стадіоні «Білянини Ізвори», який вміщує 3980 глядачів. Клуб «Воска Спорт» заснований у 2019 році. у сезоні 2022—2023 років клуб переміг у Македонській футбольній Другій лізі, та вийшов до Македонської футбольної Першої ліги.',
+        trophies:'Клуб не вигравав трофеї'
     }
 }
 // Malta
